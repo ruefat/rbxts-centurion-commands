@@ -1,7 +1,7 @@
 {
   "name": "@rbxts/centurion-commands",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Centurion-Commands is a Roblox-TS Library built for Centurion to easily create Commands and focus on what matters.",
   "main": "out/init.lua",
   "scripts": {
     "build": "rbxtsc",
